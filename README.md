@@ -8,7 +8,7 @@ This project was created for the CS 4800 Software Engineering Course at Cal Poly
 Check it out: https://cravings-dash.herokuapp.com/ (Heroku server may take extra time to wakeup)
 
 ## Database Relationship Model
-![DB_Design](/readme_img/db_model.png)
+![DB_Design](/readme_img/db.png)
 
 ## Preview Images
 ![Preview1](/readme_img/preview1.jpg)
